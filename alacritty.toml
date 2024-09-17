@@ -1,0 +1,12 @@
+live_config_reload = true
+
+[font]
+normal = { family = "Monospace", style = "Regular" }
+size = 13.5
+
+[window]
+title = "Alacritty"
+dynamic_title = false
+
+[mouse]
+hide_when_typing = false

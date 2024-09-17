@@ -1,0 +1,5 @@
+export _JAVA_AWT_WM_NONREPARENTING=1
+export EDITOR=vim
+export PS1="\w \$ "
+alias ls="ls --color=auto"
+alias grep="grep --color=auto"
